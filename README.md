@@ -1,7 +1,6 @@
 # Basic_info_for_Quantitative_Analyst
 
 ## Money and Capital Market(금융시장론)
-
 [The Meaning of Interest Rate : What is Money?](https://www.notion.so/The-Meaning-of-Interest-Rate-What-is-Money-41bc4c59fd974527af5fef670e12eb1a)
 
 [The Behavior of Interest Rates](https://www.notion.so/The-Behavior-of-Interest-Rates-d681462a2f4c470db8450479db48cb45)
